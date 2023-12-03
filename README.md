@@ -13,3 +13,15 @@ nvm use
 ```shell
 fnm use
 ```
+
+Setup the docker services:
+
+```shell
+  docker compose -f infra/compose.yaml up -d
+```
+
+Run the project locally:
+
+```shell
+npm run dev
+```
