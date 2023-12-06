@@ -14,8 +14,6 @@ nvm use
 fnm use
 ```
 
-Then you must setup the environment variables as shown in the [.env.example](.env.example) file.
-
 Setup the docker services:
 
 ```shell
